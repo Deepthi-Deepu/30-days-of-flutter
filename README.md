@@ -1,5 +1,7 @@
 # 30-days-of-flutter
-# Day1 
+# DAY 1 
     https://www.javatpoint.com/flutter
-# Day2
+# DAY 2
     https://www.javatpoint.com/flutter-installation
+# DAY 3
+    https://www.javatpoint.com/flutter-first-application
