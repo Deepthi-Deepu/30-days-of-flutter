@@ -9,3 +9,7 @@
     https://www.javatpoint.com/flutter-first-application
 # Day 5
     https://www.javatpoint.com/flutter-first-application
+# Day 6
+    https://www.javatpoint.com/flutter-dart-programming
+# Day 7
+    https://www.javatpoint.com/flutter-widgets
